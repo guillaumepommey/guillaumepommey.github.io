@@ -13,13 +13,13 @@ I am a PhD Candidate at the Paris School of Economics uder the supervision of Da
 Research Interests
 =====
 
-Contract Theory, Mechanism design, Multi-sided Moral Hazard, Financial Constraints, Property Rights
+Contract Theory, Mechanism design, Multi-sided Moral Hazard, Financial Constraints, Property Rights.
 
 Contact
 =======
 
-email: guillaume.pommey@psemail.eu <\br}
+email: <mailto:guillaume.pommey@psemail.eu> 
 
-48 Boulevard Jourdan 75014 Paris
+48 Boulevard Jourdan 75014 Paris <\br>
 6e étage, bureau 59
 
