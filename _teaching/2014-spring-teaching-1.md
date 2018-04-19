@@ -4,7 +4,7 @@ collection: teaching
 type: "M1 APE (Analysis and Policy in Economics)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Paris School of Economics"
-date: 2015-01-01
+date: 
 location: "City, Country"
 ---
 
