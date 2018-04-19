@@ -21,5 +21,5 @@ Contact
 email: <mailto:guillaume.pommey@psemail.eu> 
 
 48 Boulevard Jourdan 75014 Paris <br/>
-6e étage, bureau 59
+6th floor, office 59
 
