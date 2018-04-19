@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Level - M1 APE"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Paris School of Economics"
-date: new Date("16 Apr 2011").format("%B %d, %Y");
+date: "";
 location: "City, Country"
 ---
 
