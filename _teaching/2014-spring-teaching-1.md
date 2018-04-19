@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Microeconomics"
 collection: teaching
-type: "Graduate course"
+type: "Graduate, M1 APE (Analysis and Policy in Economics), taught in English"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Paris School of Economics"
 date: 2015-01-01
