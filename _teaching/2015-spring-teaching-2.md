@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics Tutorials, taught in English, 2016-2018"
+title: "Tutorials, 2016-2018, taught in English"
 collection: teaching
 type: "Graduate Level - M1 APE"
 permalink: /teaching/2014-spring-teaching-1
