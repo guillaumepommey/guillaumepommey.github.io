@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Microeconomics Tutorials (taught in English)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Graduate Level - M1 APE"
+permalink: /teaching/2014-spring-teaching-1
 venue: "Paris School of Economics"
-date: 2015-01-01
+date: "2015-01-01"
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Microeconomics 2: Market Equilibrium and Market Failures, 72h (Prof. Bernard Caillaud and Prof. Francis Bloch)
 
 Heading 1
 ======
