@@ -1,7 +1,7 @@
 ---
-title: "Microeconomics, Graduate Level (taught in English)"
+title: "Microeconomics (taught in English)"
 collection: teaching
-type: "M1 APE (Analysis and Policy in Economics)"
+type: "Graduate Level - M1 APE"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Paris School of Economics"
 date: 2015-01-01
