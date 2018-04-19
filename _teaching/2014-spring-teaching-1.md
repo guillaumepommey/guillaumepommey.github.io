@@ -8,8 +8,8 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
--Microeconomics 1, 24h (Prof. Pierre-Yves Geoffard)
--Game Theory, 18h (Prof. Olivier Compte)
+-Microeconomics 1, 24h (Prof. Pierre-Yves Geoffard) <br/>
+-Game Theory, 18h (Prof. Olivier Compte) <br/>
 -Microeconomics 2: Market Equilibrium and Market Failures, 24h (Prof. Bernard Caillaud)
 
 Heading 1
