@@ -11,12 +11,12 @@ redirect_from:
 I am a PhD Candidate at the Paris School of Economics uder the supervision of David Martimort.
 
 Research Interests
-=====
+------------------
 
 Contract Theory, Mechanism design, Multi-sided Moral Hazard, Financial Constraints, Property Rights.
 
 Contact
-=======
+-----------------
 
 email: <mailto:guillaume.pommey@psemail.eu> 
 
