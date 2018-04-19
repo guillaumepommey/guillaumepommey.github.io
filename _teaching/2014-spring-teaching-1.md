@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics (taught in English)"
+title: "Microeconomics Tutorials (taught in English)"
 collection: teaching
 type: "Graduate Level - M1 APE"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,9 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+-Microeconomics 1, 24h (Prof. Pierre-Yves Geoffard)
+-Game Theory, 18h (Prof. Olivier Compte)
+-Microeconomics 2: Market Equilibrium and Market Failures, 24h (Prof. Bernard Caillaud)
 
 Heading 1
 ======
