@@ -1,4 +1,3 @@
-
 ---
 title: "TEST RESEARCH"
 collection: publications
