@@ -1,6 +1,6 @@
 ---
 title:  "TEST PAGE G"
-layout: publications
+layout: archive
 permalink: /testpage/
 author_profile: true
 comments: true
