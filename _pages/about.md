@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the Paris School of Economics uder the supervision of David Martimort.
+I am a PhD Candidate at the Paris School of Economics under the supervision of David Martimort.
 
 Research Interests
 ------------------
 
-Contract Theory, Mechanism design, Multi-sided Moral Hazard, Financial Constraints, Property Rights.
+Contract Theory, Mechanism design, Financial Constraints, Property Rights, Multi-sided Moral Hazard.
 
 Contact
 -----------------
