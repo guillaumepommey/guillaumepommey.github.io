@@ -18,7 +18,7 @@ Contract Theory, Mechanism design, Multi-sided Moral Hazard, Financial Constrain
 Contact
 -----------------
 
-email: <mailto:guillaume.pommey@psemail.eu> 
+email: <mailto:guillaume.pommey[at]psemail.eu> 
 
 48 Boulevard Jourdan 75014 Paris <br/>
 6th floor, office 59
