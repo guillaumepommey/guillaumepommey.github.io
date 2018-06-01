@@ -8,7 +8,7 @@ comments: true
 
 ## Mechanism design with cash-constrained agents
 
-In this paper, I investigate...
+This paper studies ex post efficient partnership dissolution when partners are cash constrained. 
 
 ## Optimal allocation of penalties with judgment-proof injurers
 
