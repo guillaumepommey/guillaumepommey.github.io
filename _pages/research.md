@@ -14,7 +14,7 @@ assets to the members who value them the most. Although, this requires that the
 aforementioned members possess enough financial resources to buy out the others’
 share.
 
-In this paper, I investigate ex post efficient dissolution when agents are ex post
+Following the seminal work of Cramton, Gibbons and Klemperer (1987, *Econometrica*), the literature has covered many problems of parntership dissolution like for instance interdependent valuations or ex post invidividual rationality. However, the problem of limited financial resources has received little attention. In this paper, I investigate ex post efficient dissolution when agents are ex post
 financially constrained. I derive necessary and sufficient conditions for ex post efficient
 partnership dissolution with Bayesian (resp. Dominant Strategy) incentive compatible,
 interim individually rational, ex post (resp. ex ante) budget balanced and ex post cash
