@@ -13,11 +13,13 @@ business assets among themselves. A dissolution is ex post efficient if it alloc
 assets to the members who value them the most. Although, this requires that the
 aforementioned members possess enough financial resources to buy out the others’
 share.
+
 In this paper, I investigate ex post efficient dissolution when agents are ex post
 financially constrained. I derive necessary and sufficient conditions for ex post efficient
 partnership dissolution with Bayesian (resp. Dominant Strategy) incentive compatible,
 interim individually rational, ex post (resp. ex ante) budget balanced and ex post cash
 constrained mechanisms.
+
 I show that the optimal ownership structures for ex post efficient dissolution allocate
 more initial property rights to partners with low cash resources. I also show that the
 usual equivalence theorem between Bayesian and Dominant Strategy implementation is
