@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-## Mechanism design with cash-constrained agents
+## Partnership dissolution with cash-constrained agents
 
 When businesses come to an end, their members must find a way to reallocate the
 business assets among themselves. A dissolution is ex post efficient if it allocates the
