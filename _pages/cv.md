@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate at Paris School of Economics (EHESS) - 2015-Present
+* **Ph.D. Candidate** at Paris School of Economics (EHESS) - 2015/Present
   * Supervisor: Prof. [David Martimort](https://sites.google.com/site/martimortdavid/)
-* M.S. Analysis and Policy in Economics (APE) with honors, Paris School of Economics - 2015
-* Engineer's degree (Statistician-Economist), ENSAE ParisTech - 2015
-* 
-* B.S. University Paris 1 - Panthéon Sorbonne - 2012
+* **M.S.** Analysis and Policy in Economics (APE) with honors, Paris School of Economics - 2015
+* **Engineer's degree** (Statistician-Economist), ENSAE ParisTech - 2015
+* Normalien at Ecole Normale Supérieure de Cachan - 2011/2015
+* **B.S.** University Paris 1 Panthéon Sorbonne - 2012
 
 Work experience
 ======
