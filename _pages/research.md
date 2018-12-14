@@ -40,6 +40,3 @@ always pay for the penalty. In a two-agent firm, the optimal regulation consists
 an almost equal sharing of penalties among agents, the agent with a higher expected
 final wealth always being more targeted.
 
-## Regulation of modern aiport (joint with David Martimort and Jérome Pouyet)
-
-Not available yet.
