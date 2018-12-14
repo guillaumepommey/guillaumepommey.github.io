@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. Candidate at Paris School of Economics (EHESS) - 2015-Present
+  * Supervisor: Prof. [David Martimort](https://sites.google.com/site/martimortdavid/)
+* M.S. Analysis and Policy in Economics (APE) with honors, Paris School of Economics - 2015
+* Engineer's degree (Statistician-Economist), ENSAE ParisTech - 2015
+* 
+* B.S. University Paris 1 - Panthéon Sorbonne - 2012
 
 Work experience
 ======
