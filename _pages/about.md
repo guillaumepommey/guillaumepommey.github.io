@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the Paris School of Economics under the supervision of David Martimort.
+I am a PhD Candidate at the Paris School of Economics under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
 
 Research Interests
 ------------------
