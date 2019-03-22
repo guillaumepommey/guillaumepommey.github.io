@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate Level - M1 APE"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Paris School of Economics"
-date: "''"
 location: "City, Country"
 ---
 
