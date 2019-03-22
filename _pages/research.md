@@ -8,7 +8,7 @@ comments: true
 
 ## Partnership dissolution with cash-constrained agents
 
-When businesses come to an end, their members must find a way to reallocate the
+*Extended Abstract:* When businesses come to an end, their members must find a way to reallocate the
 business assets among themselves. A dissolution is ex post efficient if it allocates the
 assets to the members who value them the most. Although, this requires that the
 aforementioned members possess enough *financial resources* to buy out the others’
@@ -29,7 +29,7 @@ Finally, I propose a first-price all-pay auction that replicates the ex post dis
 
 ## Optimal allocation of penalties with judgment-proof injurers
 
-When a firm's activity may cause an accident to outside parties, how should be designed penalties to induce the firm to undertake enough safety measures, that is, what should be the optimal total amount of penalties and how should it be apportioned among the firm's members?
+*Extended Abstract:* When a firm's activity may cause an accident to outside parties, how should be designed penalties to induce the firm to undertake enough safety measures, that is, what should be the optimal total amount of penalties and how should it be apportioned among the firm's members?
 
 The earlier works of Newman and Wright (1990) and Segerson and Tietenberg (1992) suggest that only the total amount of penalties matters and not their allocation within the firm. The main argument relies on the existence of private transactions within the firm that can undo any allocation of responsibilities coming from the regulation authority. This result, known as the Equivalence Principle, had a significant influence on many works in the economic literature of tort and environmental law. 
 
