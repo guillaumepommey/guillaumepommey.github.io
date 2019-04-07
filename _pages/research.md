@@ -30,7 +30,7 @@ partnership dissolution problems due to its simplicity.
 Finally, I investigate the second-best mechanisms when cash constraints are such
 that ex post efficient dissolution is not attainable.
 
-<span style="color:#3498DB;"  target="_blank">[**Extended abstract**](../files/Pommey_extended_abstract_partnership_website.pdf)</span>
+<span style="color:#4CB1BD;">[<u>**Extended abstract**</u>](../files/Pommey_extended_abstract_partnership_website.pdf){:target="_blank"}</span>
 
 ## Optimal allocation of penalties with judgment-proof injurers
 
