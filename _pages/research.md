@@ -27,7 +27,7 @@ robust to the addition of cash constraints. That is, any partnership that can be
 
 Finally, I propose a first-price all-pay auction that replicates the ex post dissolution mechanisms stated above. Before the auction takes place, each partner receives a side payment that depends only on her/his initial share of property rights and cash constraints. Then, each partner submits a bid and he highest bidder receives the asset. The auction is constructed so that equilibrium bidding strategies are increasing in partners' valuations. The side payments are such that individual rationality, budget balance and cash constraints are satisfied. Interestingly, the lower the initial cash resources of a partner, the higher is the side payment to this partner. I also show that the bidding game proposed in Cramton, Gibbons and Klemperer (1987) fails as long as cash resources are *low*.
 
-<span style="color:blue">[Extended abstract](../files/Pommey_extended_abstract_partnership_website.pdf)</span>
+<span style="color:&#x1F499;">[Extended abstract](../files/Pommey_extended_abstract_partnership_website.pdf)</span>
 
 ## Optimal allocation of penalties with judgment-proof injurers
 
