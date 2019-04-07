@@ -27,7 +27,7 @@ robust to the addition of cash constraints. That is, any partnership that can be
 
 Finally, I propose a first-price all-pay auction that replicates the ex post dissolution mechanisms stated above. Before the auction takes place, each partner receives a side payment that depends only on her/his initial share of property rights and cash constraints. Then, each partner submits a bid and he highest bidder receives the asset. The auction is constructed so that equilibrium bidding strategies are increasing in partners' valuations. The side payments are such that individual rationality, budget balance and cash constraints are satisfied. Interestingly, the lower the initial cash resources of a partner, the higher is the side payment to this partner. I also show that the bidding game proposed in Cramton, Gibbons and Klemperer (1987) fails as long as cash resources are *low*.
 
-<span style="color:blue">[Extended abstract](../files/paper2.pdf)</span>
+<span style="color:blue">[Extended abstract](../files/Pommey_extended_abstract_partnership_website.pdf)</span>
 
 ## Optimal allocation of penalties with judgment-proof injurers
 
@@ -53,3 +53,4 @@ The optimal regulation policy of the partnership consists in an equal-sharing of
 
 To summarize, this work examines the optimal allocation of penalties among agents who may be responsible of an accident. When injurers may be judgment-proof, I show that the regulation authority must always target the injurer with the largest financial resources, even if this injurer is not in charge of effort prevention (principal-agent case) or if his relative efficiency is low compared to the other injurer (partnership case).My findings mainly rely on the assumption that the private transaction between injurers is unlikely to be observed by the regulation authority and hence, there is no reason for injurers to ensure ex ante that they will always be solvent ex post. In particular, injurers strategically conceal profits from the regulation authority in the partnership case. This analysis also stresses that allowing the regulation authority to extend liability to solvent injurers in case of insolvency of others may help to better regulate firms.
 
+<span style="color:blue">[Extended abstract](../files/Pommey_extended_abstract_structure_penalties.pdf)</span>
