@@ -9,7 +9,7 @@ author_profile: true
 
 ## Tutorials
 
-*Microeconomics 2: Market Equilibrium and Market Failures*<br/>
+* *Microeconomics 2: Market Equilibrium and Market Failures*<br/>
 (Prof. Bernard Caillaud and Prof. Francis Bloch)
 
 76h - Tutorials - Taught in English<br/>
