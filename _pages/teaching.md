@@ -27,5 +27,6 @@ author_profile: true
   
  * *Microeconomics 1*<br/>
 (Prof. Pierre-Yves **Geoffard**)
+
   * 24h - Tutorials - Taught in English
   * M1 APE - Paris School of Economics- 2015-2016
