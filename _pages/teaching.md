@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Paris School of Economics - Master Analysis and Policy in Economics
+## Paris School of Economics 
+(Master: Analysis and Policy in Economics)
 
 * 2017-2018 *Microeconomics 2<br/>
 (Prof. Bernard **Caillaud** and Prof. Francis **Bloch**)
