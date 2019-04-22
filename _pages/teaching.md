@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<br/>
-
 ## Tutorials
 
 * *Microeconomics 2: Market Equilibrium and Market Failures*<br/>
