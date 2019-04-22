@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##Tutorials - Graduate level - Paris School of Economics
+## Tutorials - Graduate level - Paris School of Economics
 
 * *Microeconomics 2*
 (Prof. Bernard **Caillaud** and Prof. Francis **Bloch**)
