@@ -5,13 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Tutorials
+## Paris School of Economics - Master Analysis and Policy in Economics
 
-* *Microeconomics 2: Market Equilibrium and Market Failures*<br/>
+* 2017-2018 *Microeconomics 2<br/>
 (Prof. Bernard **Caillaud** and Prof. Francis **Bloch**)
 
-  * 72h - Tutorials - Taught in English
-  * M1 APE - Paris School of Economics - 2016-2019
+  * Graduate - Taught in English - 3x24h
   
 * *Microeconomics 2: Market Equilibrium and Market Failures*<br/>
 (Prof. Bernard **Caillaud**)
