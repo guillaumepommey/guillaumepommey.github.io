@@ -18,7 +18,7 @@ author_profile: true
 
   * 2015-2016 - 24h
   
-  * *Microeconomics 1*
+* *Microeconomics 1*
 (Prof. Pierre-Yves **Geoffard**)
 
   * 2015-2016 - 24h
