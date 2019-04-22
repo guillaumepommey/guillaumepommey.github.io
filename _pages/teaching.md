@@ -7,10 +7,11 @@ author_profile: true
 
 ##Tutorials - Graduate level - Paris School of Economics
 
-* 2017-2018 *Microeconomics 2*
+* *Microeconomics 2*
 (Prof. Bernard **Caillaud** and Prof. Francis **Bloch**)
 
-  * 3x24h
+  * 2017/2019 - 3x24h (each year)
+  * 2015-2017 - 24h (each year)
   
 * *Microeconomics 2: Market Equilibrium and Market Failures*<br/>
 (Prof. Bernard **Caillaud**)
