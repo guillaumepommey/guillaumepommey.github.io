@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="https://guillaumepommey.github.io/">
- <sitemap>
+<urlset xmlns="https://guillaumepommey.github.io/sitemap/0.9">
    <url>
 
       <loc>https://guillaumepommey.github.io/</loc>
@@ -52,5 +51,4 @@
 
    </url>
 
- </sitemap>
 </urlset>
