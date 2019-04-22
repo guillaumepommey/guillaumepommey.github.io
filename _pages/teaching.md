@@ -13,3 +13,4 @@ author_profile: true
 (Prof. Bernard Caillaud and Prof. Francis Bloch)
 
 76h - Tutorials - Taught in English
+M1 APE - Paris School of Economics
