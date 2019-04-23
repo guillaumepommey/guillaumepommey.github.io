@@ -23,6 +23,6 @@ author_profile: true
 
   * 2015-2016, 24h
   
-## Office hours - Graduate level (M1 APE) - Paris School of Economics
+## Paris School of Economics - Graduate level (Office hours, M1 APE)
 
 * Microeconomics office hours, 20h
