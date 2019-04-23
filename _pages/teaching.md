@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Tutorials - Graduate level (M1 APE) - Paris School of Economics
+## Paris School of Economics - Graduate level (Tutorials, M1 APE)
 
 * *Microeconomics 2*
 (Prof. Bernard **Caillaud** and Prof. Francis **Bloch**)
