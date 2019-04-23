@@ -10,7 +10,7 @@ author_profile: true
 * *Microeconomics 2*
 (Prof. Bernard **Caillaud** and Prof. Francis **Bloch**)
 
-  * 2016/2019, 3x24h (each year)
+  * 2016-2019, 3x24h (each year)
   * 2015-2016, 24h
   
 * *Game theory*
