@@ -25,4 +25,4 @@ author_profile: true
 ======
 
 * **Ose retreat** (poster presentation), Aussois (France).
-* **PSIPSE seminar** of the Paris School of Economics, Paris (France).
+* **PSIPSE seminar** of the Paris School of Economics, Paris (France)..
