@@ -10,7 +10,7 @@ author_profile: true
 2019
 ======
 
-* Forthcoming (August, 26th), **EEA-ESEM**, Manchester (UK).
+* **Econometric Society European Meeting**, Manchester (UK).
 * **North American Summer Meeting of the Econometric Society**, Seattle, Washington (USA).
 * **Conference on Economic Design**, Budapest (Hungary).
 * **18th Session of the Institutional and Organizational Economics Academy** (IOEA), Cargèse (France).
