@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+<br/>
 
 <span style="color:#4CB1BD;">[**Full CV in english**](../files/Pommey_CV_09_19.pdf){:target="_blank"}</span>
 
