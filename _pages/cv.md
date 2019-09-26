@@ -7,19 +7,18 @@ redirect_from:
   - /resume
 ---
 
-<br/>
 
 <span style="color:#4CB1BD;">[**Full CV in english**](../files/Pommey_CV_09_19.pdf){:target="_blank"}</span>
 
-<br/>
 
-Education
+
+<!---Education
 ======
 * **Ph.D. Candidate**, Paris School of Economics (EHESS) - 2015/Present
   * Supervisor: Prof. [David Martimort](https://sites.google.com/site/martimortdavid/)
 * **M.S.** Analysis and Policy in Economics (APE) with honors, Paris School of Economics - 2015
 * **Engineer's degree** (Statistician-Economist), ENSAE ParisTech - 2015
 * **Ecole Normale Supérieure Paris-Saclay**, (former ENS Cachan) - 2011/2015
-* **B.S.** Economics, University Paris 1 Panthéon Sorbonne - 2012
+* **B.S.** Economics, University Paris 1 Panthéon Sorbonne - 2012--->
 
 
