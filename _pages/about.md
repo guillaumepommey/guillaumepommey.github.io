@@ -23,3 +23,4 @@ email: <mailto:guillaume.pommey[at]psemail.eu>
 48 Boulevard Jourdan 75014 Paris <br/>
 6th floor, office 59
 
+<span style="color:#4CB1BD;">[**Full CV in english**](../files/Pommey_CV_09_19.pdf){:target="_blank"}</span>
