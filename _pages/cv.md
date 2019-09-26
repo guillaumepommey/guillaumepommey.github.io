@@ -18,5 +18,5 @@ Education
 * **Ecole Normale Supérieure Paris-Saclay**, (former ENS Cachan) - 2011/2015
 * **B.S.** Economics, University Paris 1 Panthéon Sorbonne - 2012
 
-=><span style="color:#4CB1BD;">[**Full CV in english**](../files/Pommey_CV_09_19.pdf){:target="_blank"}</span>
+<span style="color:#4CB1BD;">[**Full CV in english**](../files/Pommey_CV_09_19.pdf){:target="_blank"}</span>
 
