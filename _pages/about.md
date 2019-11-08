@@ -10,7 +10,10 @@ redirect_from:
 
 I am a PhD Candidate at the Paris School of Economics under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
 
-<span style="color:#4CB1BD;">[**Full CV in english**](../files/Pommey_CV_09_19.pdf){:target="_blank"}</span>
+I am currently on the academic job market: I will be available at the **December 2019 EEA Job Market Meeting in Rotterdam**.
+
+<span style="color:#4CB1BD;">[**Job Market Paper: Partnership Dissolution with Cash-Constrained Agents**](../files/JMP_Pommey_Permanent.pdf){:target="_blank"}</span>
+<span style="color:#4CB1BD;">[**CV**](../files/CV_Pommey_Permanent.pdf){:target="_blank"}</span>
 
 Research Interests
 ------------------
