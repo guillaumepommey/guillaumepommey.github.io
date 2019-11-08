@@ -12,7 +12,7 @@ I am a PhD Candidate at the Paris School of Economics under the supervision of [
 
 I am currently on the academic job market. I will be available at the **December 2019 EEA Job Market Meeting in Rotterdam**.
 
-&#9658;<span style="color:#4CB1BD;">[**CV**](../files/CV_Pommey_Permanent.pdf){:target="_blank"}</span>
+&#9658; <span style="color:#4CB1BD;">[**CV**](../files/CV_Pommey_Permanent.pdf){:target="_blank"}</span>
 
 &#9658; <span style="color:#4CB1BD;">[**Job Market Paper: Partnership Dissolution with Cash-Constrained Agents**](../files/JMP_Pommey_Permanent.pdf){:target="_blank"}</span>
 
