@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guillaume Pommey"
+title: "Guillaume Pommey - Assistant Professor"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Assistant Professor at the University degli Studi di Roma Tor Vergata (Department of Economics and Finance).
+I am Assistant Professor at the **University degli Studi di Roma Tor Vergata** (Department of Economics and Finance).
 
-I did my PhD at the Paris School of Economics under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
+I did my PhD at the **Paris School of Economics** under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
 
-&#9658; <span style="color:#4CB1BD;">[**CV**](../files/CV_Pommey_Permanent.pdf){:target="_blank"}</span>
+<span style="color:#4CB1BD;">[**Curriculum vitae**](../files/CV_Pommey_Permanent.pdf){:target="_blank"}</span>
 
 
 Research Interests
