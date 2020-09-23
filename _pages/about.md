@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+------------------
+
 I am Assistant Professor at the **University degli Studi di Roma Tor Vergata** (Department of Economics and Finance).
 
 I did my PhD at the **Paris School of Economics** under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
