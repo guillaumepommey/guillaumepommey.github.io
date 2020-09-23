@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-------------------
+<br/>
 
 I am Assistant Professor at the **University degli Studi di Roma Tor Vergata** (Department of Economics and Finance).
 
@@ -25,7 +25,7 @@ Contract Theory, Mechanism design, Financial Constraints, Property Rights, Multi
 Contact
 -----------------
 
-email: coming soon %<mailto:guillaume.pommey[at]psemail.eu>%
+Email: coming soon
 
 University of Rome Tor Vergata <br/>
 Via Columbia, 2 <br/>
