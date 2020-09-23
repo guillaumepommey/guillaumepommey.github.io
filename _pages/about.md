@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Candidate in Economics"
+title: "Guillaume Pommey"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the Paris School of Economics under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
+I am Assistant Professor at the University degli Studi di Roma Tor Vergata (Department of Economics and Finance).
 
-I am currently on the academic job market. I will be available at the **December 2019 EEA Job Market Meeting in Rotterdam**.
+I did my PhD at the Paris School of Economics under the supervision of [David Martimort](https://sites.google.com/site/martimortdavid/).
 
 &#9658; <span style="color:#4CB1BD;">[**CV**](../files/CV_Pommey_Permanent.pdf){:target="_blank"}</span>
 
-&#9658; <span style="color:#4CB1BD;">[**Job Market Paper**](../files/JMP_Pommey_Permanent.pdf){:target="_blank"}</span>
 
 Research Interests
 ------------------
@@ -24,9 +23,10 @@ Contract Theory, Mechanism design, Financial Constraints, Property Rights, Multi
 Contact
 -----------------
 
-email: <mailto:guillaume.pommey[at]psemail.eu> 
+email: coming soon %<mailto:guillaume.pommey[at]psemail.eu>%
 
-48 Boulevard Jourdan 75014 Paris <br/>
-6th floor, office 59
+University of Rome Tor Vergata <br/>
+Via Columbia, 2 <br/>
+00133 Roma (Italy)
 
 
