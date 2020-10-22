@@ -5,9 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## University of Roma Tor Vergata - Graduate level - EEBL
+
+* 2020/2021: Game Theory
+
 ## Paris School of Economics - Graduate level - M1 Analysis and Policy in Economics
 
-* 2015/2016 - 2019/2020 : Microeconomics 1 (TA for Prof. **Pierre-Yves Geoffard**, Prof. **Matt Leduc**)
+* 2015/2016 - 2019/2020: Microeconomics 1 (TA for Prof. **Pierre-Yves Geoffard**, Prof. **Matt Leduc**)
 
 * 2015/2016: Game theory (TA for Prof. **Olivier Compte**, Prof. **Matt Leduc**)
 
