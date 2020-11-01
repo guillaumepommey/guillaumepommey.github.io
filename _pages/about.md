@@ -25,7 +25,7 @@ Contract Theory, Mechanism design, Financial Constraints, Property Rights, Multi
 Contact
 -----------------
 
-Email: coming soon
+Email: coming soon ![](hat.png)
 
 University of Rome Tor Vergata <br/>
 Via Columbia, 2 <br/>
