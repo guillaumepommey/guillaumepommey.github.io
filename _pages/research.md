@@ -16,9 +16,9 @@ Optimal allocation of penalties with judgment-proof injurers <span style="color:
 ## Work in progress
 
  
-How to Regulate Modern Airports? (joint with David Martimort (PSE) and Jérôme Pouyet (ESSEC))
+How to regulate airports? (joint with David Martimort (PSE) and Jérôme Pouyet (ESSEC))
 
-Optimal Aggregation of Expert Opinions (joint with Philippe Colo (PSE))
+Optimal aggregation of expert opinions (joint with Philippe Colo (PSE))
 
-Allocation of Property Rights and Production Inefficiencies under Double-Moral Hazard
+Allocation of property rights and production inefficiencies under double-moral hazard
 
