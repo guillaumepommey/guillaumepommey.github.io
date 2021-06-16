@@ -20,12 +20,12 @@ My full <span style="color:#4CB1BD;">[**Curriculum vitae**](../files/CV_Pommey_P
 Research Interests
 ------------------
 
-Contract Theory, Mechanism design, Financial Constraints, Property Rights, Multi-sided Moral Hazard.
+Mechanism design, Property Rights, Regulation
 
 Contact
 -----------------
 
-Email: guillaume.pommey[_you know what_]uniroma2.eu
+Email: guillaume.pommey[You-Know-What]uniroma2.eu
 
 University of Rome Tor Vergata <br/>
 Via Columbia, 2 <br/>
