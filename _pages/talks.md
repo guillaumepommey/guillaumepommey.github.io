@@ -7,6 +7,12 @@ author_profile: true
 
 <br/>
 
+2020
+======
+
+* **ENAC DEVI Seminar (invited)**, Toulouse (France)
+* **ITEA Webinars Sessions**, Toulouse (France)
+
 2019
 ======
 
