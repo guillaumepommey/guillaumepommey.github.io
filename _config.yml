@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guillaume Pommey"
 title_separator          : "-"
 name                     : &name "Guillaume Pommey"
-description              : &description "Assistant Professor at University di Roma Tor Vergata"
+description              : &description "Assistant Professor at University of Rome Tor Vergata"
 url                      : https://guillaumepommey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guillaumepommey/guillaumepommey.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Guillaume Pommey"
   avatar           : "photo_profile_4.jpg"
-  bio              : "Assistant Professor at University di Roma Tor Vergata"
+  bio              : "Assistant Professor at University of Rome Tor Vergata"
   location         : 
   employer         :
   googlescholar    : 
