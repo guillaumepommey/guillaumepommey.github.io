@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ------------------
 
 I am Assistant Professor of Economics at the **Università degli Studi di Roma Tor Vergata** (Department of Economics and Finance).
