@@ -12,4 +12,4 @@ author_profile: true
 
 ## Paris School of Economics
 
-* 2015-2020: Micro, Game Theory, Advanced Micro, *Master Analysis and Policy in Economics (APE)*
+* 2015-2020: Tutorials in Microeconomics and Game Theory, *Master Analysis and Policy in Economics (APE)*
