@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guillaume Pommey - Assistant Professor of Economics"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
