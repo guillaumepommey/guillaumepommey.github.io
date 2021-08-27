@@ -19,7 +19,7 @@ My full <span style="color:#4CB1BD;">[**Curriculum vitae**](../files/CV_Pommey_P
 Research Interests
 ------------------
 
-Mechanism design, Property Rights, Regulation
+Mechanism design, Contract Theory, Regulation
 
 Contact
 -----------------
