@@ -7,8 +7,9 @@ author_profile: true
 
 ## University of Roma Tor Vergata
 
-* 2020/2021: Topics in Auction Theory, *PhD Economics and Finance*
-* 2020/2021: Game Theory, *European Economy and Business Law MSc*
+* 2020/2022: Topics in Auction Theory, *PhD Economics and Finance*
+* 2020/2022: Game Theory, *MSc European Economy and Business Law*
+* 2020/2021: Game Theory, *Bachelor of Science Business Administration and Economics*
 
 ## Paris School of Economics
 
