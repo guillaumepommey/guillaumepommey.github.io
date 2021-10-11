@@ -9,7 +9,7 @@ comments: true
 ## Working papers
 
 
-Partnership dissolution with cash-constrained agents - <span style="color:#4CB1BD;">[**Latest version**](../files/partnership_dissolution_pommey.pdf){:target="_blank"}</span>
+Partnership dissolution with cash-constrained agents - <span style="color:#4CB1BD;">[**Latest version**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>
 
 Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
 
