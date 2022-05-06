@@ -5,11 +5,14 @@ permalink: /resources/
 author_profile: true
 ---
 
-<br/>
-
 ## Slides/Lecture notes
 
 * **Introduction to Game Theory** 
 Static and Dynamic Games of Complete and Incomplete Information
 
-* **Introduction to Auction Theory** 
+* **Introduction to Auction Theory**
+Standard auctions, optimal selling mechanisms
+
+* **Competing Mechanisms** 
+1. McAfee (1991), Peters (1995), Burguet and Sakovics (1999)
+2. Martimort and Stole (2002), Epstein and Peters (1999)
