@@ -7,10 +7,10 @@ author_profile: true
 
 ## Slides/Lecture notes
 
-* **Introduction to Game Theory** 
+* **Introduction to Game Theory** <br> 
 Static and Dynamic Games of Complete and Incomplete Information
 
-* **Introduction to Auction Theory**
+* **Introduction to Auction Theory** <br> 
 Standard auctions, optimal selling mechanisms
 
 * **Competing Mechanisms** 
