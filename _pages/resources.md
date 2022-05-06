@@ -9,5 +9,7 @@ author_profile: true
 
 ## Slides/Lecture notes
 
-* **Introduction to Game Theory (slides):** 
+* **Introduction to Game Theory** 
 Static and Dynamic Games of Complete and Incomplete Information
+
+* **Introduction to Auction Theory** 
