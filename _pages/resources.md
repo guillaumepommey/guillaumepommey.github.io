@@ -14,6 +14,6 @@ Static and Dynamic Games of Complete and Incomplete Information
 Standard auctions, optimal selling mechanisms
 
 * **Competing Mechanisms** 
-1. McAfee (1991), Peters (1995), Burguet and Sakovics (1999)
+1. [McAfee (1991), Peters (1995), Burguet and Sakovics (1999)](./files/resources/Lecture_1___Competing_Auctions.pdf)
 2. Martimort and Stole (2002), Epstein and Peters (1999)
 
