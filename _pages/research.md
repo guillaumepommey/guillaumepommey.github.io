@@ -12,4 +12,15 @@ comments: true
 
 ## Working papers
 
+
+
+Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
+
+## Work in progress
+
+Optimal aggregation of expert opinions (joint with Philippe Colo (PSE))
+
+Allocation of property rights and production inefficiencies under double-moral hazard
+
+
 Maintenance...
