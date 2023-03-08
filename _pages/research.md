@@ -8,9 +8,14 @@ comments: true
 
 ## Publications
 
+Optimal regulation design of airports: Investment incentives and impact of commercial services (2022), _Transportation Research Part B: Methodological_, 164, 25-44.
+<br>
+with David Martimort and Jérome Pouyet.
+
 ## Working papers
 
-Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**New version**](test.pdf){:target="_blank"}</span>
+Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**New version**](../files/test.pdf){:target="_blank"}</span>
+<br>
 [Old version: <span style="color:#4CB1BD;">[**Partnership dissolution with cash-constrained agents**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>
 
 Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
