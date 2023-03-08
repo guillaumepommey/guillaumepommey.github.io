@@ -12,7 +12,7 @@ Optimal regulation design of airports: Investment incentives and impact of comme
 
 ## Working papers
 
-Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**New version**](../files/Asymmetric information_liquidity_trade.pdf){:target="_blank"}</span>
+Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**New version**](../files/Asymmetric_information, liquidity_and_trade.pdf){:target="_blank"}</span>
 <br>
 [Old version: <span style="color:#4CB1BD;">[**Partnership dissolution with cash-constrained agents**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>]
 
