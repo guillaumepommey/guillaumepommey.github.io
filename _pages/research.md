@@ -23,6 +23,3 @@ Optimal allocation of penalties with judgment-proof injurers - <span style="colo
 Optimal aggregation of expert opinions (joint with Philippe Colo (PSE))
 
 Allocation of property rights and production inefficiencies under double-moral hazard
-
-
-Maintenance...
