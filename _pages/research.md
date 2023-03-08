@@ -18,9 +18,6 @@ Asymmetric information, liquidity constraints, and efficient trade - <span style
 
 Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
 
-How to regulate airports? *joint with David Martimort (PSE) and Jérôme Pouyet (ESSEC)* - <span style="color:#4CB1BD;">[**Latest version**](https://hal.archives-ouvertes.fr/hal-03328394/document){:target="_blank"}</span>
--> *Revise and resubmit at Transportation Research: Part B*
-
 ## Work in progress
 
 Optimal aggregation of expert opinions (joint with Philippe Colo (PSE))
