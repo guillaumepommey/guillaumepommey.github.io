@@ -8,9 +8,11 @@ comments: true
 
 ## Working papers
 
+ASYMMETRIC INFORMATION, LIQUIDITY CONSTRAINTS, AND
+EFFICIENT TRADE
 
-Partnership dissolution with cash-constrained agents - <span style="color:#4CB1BD;">[**Latest version**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>
- <br>  <span style="color:blue">**-> new version soon**</span>
+Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**New**](Asymmetric information, liquidity and trade.pdf){:target="_blank"}</span>
+[Old version: <span style="color:#4CB1BD;">[**Partnership dissolution with cash-constrained agents**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>
 
 Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
 
