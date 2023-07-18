@@ -12,7 +12,9 @@ comments: true
 
 ## Working papers
 
-Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**New version**](../files/Asymmetric_information_liquidity_and_trade.pdf){:target="_blank"}</span> <span style="color:#4CB1BD;">[**old version**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>
+Asymmetric information, liquidity constraints, and efficient trade - <span style="color:blue;">[**Latest version**](../files/Asymmetric_information_liquidity_and_trade.pdf){:target="_blank"}</span> (submitted)
+
+(<span style="color:#4CB1BD;">[**old version**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939829){:target="_blank"}</span>)
 
 Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
 
