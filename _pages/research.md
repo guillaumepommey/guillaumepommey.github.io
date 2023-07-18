@@ -20,6 +20,7 @@ Optimal allocation of penalties with judgment-proof injurers - <span style="colo
 
 ## Work in progress
 
-Optimal aggregation of expert opinions (joint with Philippe Colo (PSE))
+A mechanism design approach to property rights
 
-Allocation of property rights and production inefficiencies under double-moral hazard
+Optimal aggregation of expert opinions (joint with Philippe Colo (ETH Zurich))
+
