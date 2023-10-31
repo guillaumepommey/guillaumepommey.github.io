@@ -7,7 +7,7 @@ author_profile: true
 
 ## Slides/Lecture notes
 
-* **Introduction to Game Theory** <br> (MSc European Economy and Business Law, Tor Vergata)<br> 
+* **Introduction to Game Theory** (MSc European Economy and Business Law, Tor Vergata)
 1. <span style="color:#4CB1BD;">[Static games of complete information](../files/resources/1 - Static games of complete information.pdf){:target="_blank"}
 2. <span style="color:#4CB1BD;">[Dynamic games of complete information](../files/resources/2 - Dynamic games of complete information.pdf){:target="_blank"}
 3. <span style="color:#4CB1BD;">[Repeated games](../files/resources/3 - Repeated games.pdf){:target="_blank"}
