@@ -7,11 +7,11 @@ author_profile: true
 
 ## Slides/Lecture notes
 
-* **Introduction to Game Theory** <br> 
-Static and Dynamic Games of Complete and Incomplete Information
+* **Introduction to Game Theory** <br> (MSc European Economy and Business Law, Tor Vergata)
+<span style="color:#4CB1BD;">[1 - Static games of complete information](../files/resources/1 - Static games of complete information.pdf){:target="_blank"}
 
-* **Introduction to Auction Theory** <br> 
-Standard auctions, optimal selling mechanisms
+<!-- * **Introduction to Auction Theory** <br> 
+Standard auctions, optimal selling mechanisms -->
 
 * **Competing Mechanisms** (Slides, 2022)
 1. <span style="color:#4CB1BD;">[McAfee (1991), Peters (1995), Burguet and Sakovics (1999)](../files/resources/Lecture_1___Competing_Auctions.pdf){:target="_blank"}
