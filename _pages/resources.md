@@ -8,7 +8,7 @@ author_profile: true
 ## Slides/Lecture notes
 
 * **Introduction to Game Theory** <br> (MSc European Economy and Business Law, Tor Vergata)
-<span style="color:#4CB1BD;">[1 - Static games of complete information](../files/resources/1 - Static games of complete information.pdf){:target="_blank"}
+1. <span style="color:#4CB1BD;">[Static games of complete information](../files/resources/1 - Static games of complete information.pdf){:target="_blank"}
 
 <!-- * **Introduction to Auction Theory** <br> 
 Standard auctions, optimal selling mechanisms -->
