@@ -14,11 +14,12 @@ comments: true
 
 [Submitted] Asymmetric information, liquidity constraints, and efficient trade - <span style="color:#4CB1BD;">[**Latest version**](../files/Asymmetric_information_liquidity_and_trade.pdf){:target="_blank"}</span>
 
+[Available Soon] Communication Failure: the Hidden Face of the Tragedy of the Commons (with <span style="color:#4CB1BD;">[Philippe Colo][(https://www.sciencedirect.com/science/article/pii/S019126152200128X](https://sites.google.com/view/philippe-colo/research)){:target="_blank"}</span>)
+
 Optimal allocation of penalties with judgment-proof injurers - <span style="color:#4CB1BD;">[**Latest version**](../files/allocation_penalties_pommey.pdf){:target="_blank"}</span>
 
 ## Work in progress
 
 A mechanism design approach to property rights
 
-Optimal aggregation of expert opinions (joint with Philippe Colo (ETH Zurich))
 
