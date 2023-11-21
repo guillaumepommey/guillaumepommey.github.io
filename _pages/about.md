@@ -26,8 +26,4 @@ Contact
 
 Email: guillaume.pommey[You-Know-What]uniroma2.eu
 
-University of Rome Tor Vergata <br/>
-Via Columbia, 2 <br/>
-00133 Roma (Italy)
-
 
