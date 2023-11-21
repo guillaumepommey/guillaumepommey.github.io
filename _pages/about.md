@@ -24,6 +24,6 @@ Mechanism design, Contract Theory, Regulation
 Contact
 -----------------
 
-Email: guillaume.pommey[You-Know-What]uniroma2.eu
+guillaume.pommey[You-Know-What]uniroma2.eu
 
 
