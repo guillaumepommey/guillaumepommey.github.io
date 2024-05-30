@@ -8,7 +8,7 @@ author_profile: true
 ## Slides/Lecture notes
 
 * **Introduction to Mechanism Design - Lecture notes** (RED PhD Program, EIEF and Tor Vergata) <br>
-<span style="color:#4CB1BD;">[(Rough) lecture notes](../files/resources/intro_mechanism_deisgn.pdf){:target="_blank"}
+<span style="color:#4CB1BD;">[(Rough) lecture notes](../files/resources/intro_mechanism_design.pdf){:target="_blank"}
 
 * **Introduction to Game Theory - Slides** (MSc European Economy and Business Law, Tor Vergata)
 1. <span style="color:#4CB1BD;">[Static games of complete information](../files/resources/1 - Static games of complete information.pdf){:target="_blank"}
