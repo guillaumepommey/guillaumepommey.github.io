@@ -20,7 +20,11 @@ comments: true
 
 ## Work in progress
 
+Flexibility-security trade-off with unobservable investments (with L. Bozzoli)
+
 A mechanism design approach to property rights
+
+
 
 
 
