@@ -26,4 +26,4 @@ Standard auctions, optimal selling mechanisms -->
 2. <span style="color:#4CB1BD;">[Martimort and Stole (2002), Epstein and Peters (1999)](../files/resources/Lecture_2___Competing_Mechanisms__Revelation_Principle_and_Extensions.pdf){:target="_blank"}
 
 
-Slides Budapest: <span style="color:#4CB1BD;">[1](../files/pommey_budapest_pauses.pdf){:target="_blank"} <span style="color:#4CB1BD;">[2](../files/pommey_budapest.pdf){:target="_blank"}
+Slides Napoli: <span style="color:#4CB1BD;">[1](../files/slides_napoli.pdf){:target="_blank"}
